@@ -1,6 +1,6 @@
 services:
   mc:
-    image: itzg/minecraft-server:java21-jdk
+    image: itzg/minecraft-server:java17-jdk
     container_name: mc
     tty: true
     stdin_open: true
@@ -18,7 +18,7 @@ services:
       # ----------------------- Server
       TYPE: FABRIC
       EULA: TRUE
-      VERSION: 1.21.8
+      VERSION: 1.20.1
       DIFFICULTY: normal
       ENABLE_COMMAND_BLOCK: FALSE
       MODE: survival
