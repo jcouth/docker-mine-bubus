@@ -1,13 +1,13 @@
 name = "Bubus"
 author = "Coutinho"
-version = "1.21.8"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "62f7cd61778be7a6e22f17887bca8984128108ccccd6984983b652a01155a94b"
+hash = "432f9a4b928e1b341612b5686763b7f476d7820a1cf9b5b8c9cbf49e1a0c6e2b"
 
 [versions]
 fabric = "0.17.2"
-minecraft = "1.21.8"
+minecraft = "1.20.1"
