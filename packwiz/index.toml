@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "6fd888d1b4de5d7b4ceb3db0a7f8c353b8d6685e7b8a4386ad8ecde7e23256c4"
+hash = "d5d9d8aebcb10d83bd3895d92a3e32bf39ad797bbe9da5e370c346f4c7b8bfd8"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
+hash = "4a47f9115e5b8a3a68aceef941d146374e5b76958347ee81aede776c2100185f"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+hash = "b63b338a1edc89356687477a15e6d230713cf875f9552f1616406f0ef3f273c7"
 metafile = true
 
 [[files]]
