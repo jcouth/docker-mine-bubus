@@ -131,6 +131,11 @@ hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "62a5e15ac115d87e69788ee67f58adc82bd09c8edb7e32d78ec421280d887fd3"
 metafile = true
